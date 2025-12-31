@@ -1,0 +1,42 @@
+Jaanu Pathan
+H+91-7995989267|kjanu.patan29@gmail.com|github.com/jaanupathan|linkedin.com/in/jaanu-pathan-985b82315
+Objective
+Motivated Electronics and Communication Engineering undergraduate seeking an internship or entry-level role in
+software developmentorSoftware Engineer. Skilled in Java, DSA, frontend development, and analytical
+problem-solving with experience building responsive web applications, AI-based prototypes, and API-driven systems.
+Education
+•Malla Reddy College of Engineering2023 – 2027
+B.Tech in Electronics and Communication Engineering CGPA: 8.2
+•Relevant Coursework: Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS
+•St. Ann’s High School 2020 – 2021
+Board of Secondary Education CGPA: 10
+Skills
+Programming:Java (OOP, DSA), JavaScript, HTML, CSS, Bootstrap
+Tools & Technologies:Git, GitHub, REST APIs, Local Storage, VS Code
+Concepts:Problem Solving, System Design Fundamentals, Data Analytics Basics, Machine Learning Fundamentals
+Soft Skills:Communication, Leadership, Logical Thinking
+Projects
+•Portfolio Website(Live Link) — Designed a responsive portfolio using HTML, CSS, and JavaScript; deployed via GitHub
+Pages.
+•News Aggregator Website— Developed a news platform using News API with search, filters, and mobile-responsive UI.
+•Food Order Webpage(Live Link) — Built a dynamic ordering interface with cart system and Local Storage persistence.
+•AI-Based Farming Predictor Prototype(Demo) — Created an AI-based crop recommendation tool using environmental
+parameters.
+•MSME Hackathon Project— Built sensor-based hardware prototype to detect machine anomalies via noise and heat
+patterns.
+•Smart India Hackathon (SIH)— Contributed to an AI-driven system for crop selection and resource optimization.
+Certifications
+•Cambridge English Certificate – Communication Skills
+•Web Development Bootcamp – On Campus
+•Java Programming – HackerRank
+•MSME Hackathon – Hardware Prototype Model
+•Smart India Hackathon (SIH) – AI Farming Predictor Project
+Positions of Responsibility
+•Group Leader, Coding Club — Led peer coding sessions, mock tests, and DSA practice.
+•Member, Music Club — Participated and coordinated musical performances.
+Achievements
+•Ranked top 20 among 200+ participants in a coding contest
+•Built and deployed multiple frontend applications
+•Completed Cambridge-certified communication program
+Interests
+Software Development, Data Analytics, Playing Cricket, Exploring Technology
